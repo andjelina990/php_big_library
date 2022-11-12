@@ -33,7 +33,7 @@
                             <tr>
                                 <th class="left-title">Type</th>
                                 <td>
-                                    <!-- <input class='form-control' type="text" name="type" placeholder="Type" > -->
+                                  <input class='form-control' type="text" name="type" placeholder="Type" >
                                     <select class="form-control" name="type">
                                         <option>Choose the type</option>
                                         <option>Book</option>
